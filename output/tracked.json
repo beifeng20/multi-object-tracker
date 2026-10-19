@@ -1,0 +1,9 @@
+{
+  "frames": 1260,
+  "track_ids_created": 72,
+  "tracks_shown": 34,
+  "tracks_longer_than_1s": 12,
+  "longest_track_frames": 693,
+  "yolo_ms_per_frame": 102.9,
+  "sort_ms_per_frame": 0.67
+}

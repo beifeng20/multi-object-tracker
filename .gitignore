@@ -1,0 +1,5 @@
+data/
+output/*.mp4
+*.pt
+__pycache__/
+.pytest_cache/

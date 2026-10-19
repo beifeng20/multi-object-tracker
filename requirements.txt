@@ -1,0 +1,7 @@
+numpy
+scipy
+opencv-python>=4.8
+ultralytics>=8.3
+motmetrics>=1.4
+pillow
+pytest
